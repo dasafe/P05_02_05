@@ -2,4 +2,8 @@ harina
 huevo
 chocolate
 .
+<<<<<<< HEAD
 edit local
+=======
+edit desde github
+>>>>>>> 69d12a7281f8c94d8152e8653274d6b09e5291ee
